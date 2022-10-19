@@ -1,0 +1,14 @@
+#000_no_rpath.diff
+ltconfig_for_kfreebsd.diff
+upstream_disable_rpath.diff
+005_link_with_g++.diff
+010_fix_m4_syntax.diff
+030_am_prog_as.diff
+040_drop_libtool.m4.diff
+200_export_mpegaudio_class.diff
+300_manpage_typos.diff
+310_deprecate_flags.diff
+320_gnu_stack.diff
+330_format_security.diff
+340_gcc6.diff
+350_gtk_mssing_macro.diff
